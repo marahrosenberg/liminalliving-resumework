@@ -89,8 +89,7 @@ This protocol holds both the tactical and the human layer.
 ## License
 
 CC BY-NC 4.0 — free to use and adapt with attribution. Not for commercial use without
-permission. For licensing inquiries: marah@liminalliving.net
-
+permission. For licensing inquiries: marah.rosenberg+liminalskill@gmail.com
 ---
 
 ## About Liminal Living
