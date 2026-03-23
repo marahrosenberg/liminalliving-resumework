@@ -13,7 +13,7 @@ letter process — while holding the emotional reality of what job loss actually
 Most resume tools treat the human as a variable to manage around. This one treats human
 capacity as the system itself.
 
-Victory Protocol works for:
+This works for:
 - Recent layoffs navigating shock and momentum at the same time
 - Long searches where confidence has eroded
 - Career changers with non-linear histories
