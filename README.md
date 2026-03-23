@@ -98,4 +98,12 @@ Liminal Living is a practice of presence built on treating human capacity as the
 than a variable to manage around. Work at the intersection of organizational dynamics,
 grief literacy, and systems thinking.
 
+## Support This Work
+
+LiminalLiving.ResumeWork is free for anyone navigating job loss. If it helped you,
+consider buying the humans behind it a coffee.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-yellow)](https://www.buymeacoffee.com/LiminalLiving)
+
+
 [liminalliving.net](https://liminalliving.net)
