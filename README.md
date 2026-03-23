@@ -95,7 +95,7 @@ permission. For licensing inquiries: marah@liminalliving.net
 
 ## About Liminal Living
 
-Liminal Living is a practice built on treating human capacity as the core system rather
+Liminal Living is a practice of presence built on treating human capacity as the core system rather
 than a variable to manage around. Work at the intersection of organizational dynamics,
 grief literacy, and systems thinking.
 
